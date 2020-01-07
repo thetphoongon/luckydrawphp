@@ -1,0 +1,11 @@
+[23-Nov-2019 09:17:56 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49
+[23-Nov-2019 09:17:58 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49
+[23-Nov-2019 09:18:01 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49
+[23-Nov-2019 09:18:07 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49
+[23-Nov-2019 09:18:11 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49
+[23-Nov-2019 09:18:37 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49
+[02-Jan-2020 16:02:17 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49
+[02-Jan-2020 16:02:23 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49
+[02-Jan-2020 16:02:25 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49
+[02-Jan-2020 16:04:18 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49
+[02-Jan-2020 16:04:20 UTC] PHP Warning:  array_rand(): Array is empty in /home/aungpyae/public_html/luckydrawphp/inc/get_winning_num.php on line 49

@@ -1,0 +1,12 @@
+[28-Nov-2019 08:17:20 UTC] PHP Warning:  PDO::query(): MySQL server has gone away in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 106
+[28-Nov-2019 08:17:20 UTC] PHP Warning:  PDO::query(): MySQL server has gone away in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 106
+[28-Nov-2019 08:17:20 UTC] PHP Warning:  PDO::query(): MySQL server has gone away in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 164
+[28-Nov-2019 08:17:20 UTC] PHP Warning:  PDO::query(): MySQL server has gone away in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 334
+[28-Nov-2019 08:17:20 UTC] PHP Warning:  PDO::query(): MySQL server has gone away in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 371
+[28-Nov-2019 08:17:21 UTC] PHP Warning:  PDO::query(): Error reading result set's header in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 106
+[28-Nov-2019 08:17:21 UTC] PHP Warning:  PDO::query(): Error reading result set's header in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 106
+[28-Nov-2019 08:17:21 UTC] PHP Warning:  PDO::query(): Error reading result set's header in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 164
+[28-Nov-2019 08:17:21 UTC] PHP Warning:  PDO::query(): Error reading result set's header in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 371
+[28-Nov-2019 08:17:21 UTC] PHP Warning:  PDO::query(): Error reading result set's header in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 334
+[28-Nov-2019 08:17:20 UTC] PHP Warning:  PDO::query(): MySQL server has gone away in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 126
+[28-Nov-2019 08:17:53 UTC] PHP Warning:  PDO::query(): Error reading result set's header in /home/aungpyae/public_html/luckydrawphp/inc/functions.php on line 126
